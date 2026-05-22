@@ -1,0 +1,6 @@
+{
+  "name": "Sync Route",
+  "description": "A dynamic campus route optimization and shortcut discovery gamification app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
